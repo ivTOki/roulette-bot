@@ -1,4 +1,4 @@
-Roulette Bot By Shuruhatik#2443
+Roulette Bot By Falcon
 ====
 - انضم في اللعبة
 - ستبدأ الجولة الأولى وسيتم تدوير العجلة واختيار لاعب عشوائي
